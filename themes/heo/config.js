@@ -1,12 +1,12 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-03-31', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-04-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Welcome', url: 'https://smallambition.com/' },
-    { title: 'For more things', url: 'https://smallambition.com/' }
+    { title: 'Welcome', url: 'https://japan-guides.com/' },
+    { title: 'For more things', url: 'https://japan-guides.com/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -16,33 +16,33 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'Share',
-  HEO_HERO_TITLE_2: 'Think',
-  HEO_HERO_TITLE_3: 'smallambition.COM',
-  HEO_HERO_TITLE_4: 'New World',
-  HEO_HERO_TITLE_5: 'Change your life',
-  HEO_HERO_TITLE_LINK: 'https://smallambition.com',
+  HEO_HERO_TITLE_2: 'Happy',
+  HEO_HERO_TITLE_3: 'japan-guides.COM',
+  HEO_HERO_TITLE_4: 'Japan World',
+  HEO_HERO_TITLE_5: 'Enjoy your life',
+  HEO_HERO_TITLE_LINK: 'https://japan-guides.com',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: 'Must-see', url: '/tag/mustsee' },
+  HEO_HERO_CATEGORY_2: { title: 'Hot article', url: '/tag/hotarticle' },
+  HEO_HERO_CATEGORY_3: { title: 'Practical Tutorials', url: '/tag/tutorials' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-  HEO_HERO_RECOMMEND_POST_TAG: '推荐',
+  HEO_HERO_RECOMMEND_POST_TAG: 'Recommended',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    'Hello welcome to japan',
+    '🔍 search',
+    '🤝 share',
+    '🏃 step',
+    '🏠 hotel',
+    '🤖️ game',
+    '🧱 team'
   ],
-  HEO_INFO_CARD_URL: 'https://smallambition.com/', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://japan-guides.com/', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -108,7 +108,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://smallambition.com/',
+  HEO_SOCIAL_CARD_URL: 'https://japan-guides.com/',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
