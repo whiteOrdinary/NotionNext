@@ -34,7 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    'Hello welcome to japan',
+    'Welcome to japan',
     '🔍 search',
     '🤝 share',
     '🏃 step',
