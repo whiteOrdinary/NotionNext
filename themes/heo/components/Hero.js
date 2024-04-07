@@ -371,7 +371,7 @@ function TodayCard({ cRef, siteInfo }) {
               className={'w-6 h-6 mr-2 bg-white rounded-full stroke-indigo-400'}
             />
             <div id="more" className="select-none">
-              更多推荐
+              More Recommendations
             </div>
           </div>
         </div>
