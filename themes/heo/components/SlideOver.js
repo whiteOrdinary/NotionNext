@@ -78,7 +78,7 @@ export default function SlideOver(props) {
                                         <div className="relative mt-6 flex-1 flex-col space-y-3 px-4 sm:px-6 dark:text-white ">
 
                                             <section className='space-y-2 flex flex-col'>
-                                                <div>function</div>
+                                                <div>Function</div>
                                                 {/* 切换深色模式 */}
                                                 <DarkModeBlockButton />
                                             </section>
@@ -120,7 +120,7 @@ function DarkModeBlockButton() {
     darkModeRef?.current?.handleChangeDarkMode()
   }
   return <button onClick={handleChangeDarkMode} className={'group duration-200 hover:text-white hover:shadow-md hover:bg-blue-600 flex justify-between items-center px-2 py-2 border dark:border-gray-600 bg-white dark:bg-[#ff953e]  rounded-lg'}>
-        <DarkModeButton cRef={darkModeRef} className='group-hover:text-white' /> 显示模式
+        <DarkModeButton cRef={darkModeRef} className='group-hover:text-white' /> Display mode
     </button>
 }
 
