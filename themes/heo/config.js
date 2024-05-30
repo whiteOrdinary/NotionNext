@@ -74,13 +74,13 @@ const CONFIG = {
       title_1: 'japan88',
       img_1: '/images/heo/88.png',
       color_1: '#eb6840',
-      title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      title_2: 'japan99',
+      img_2: '/images/heo/99.png',
       color_2: '#8f55ba'
     },
     {
-      title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+      title_1: '100',
+      img_1: '/images/heo/100.png',
       color_1: '#f29e39',
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
