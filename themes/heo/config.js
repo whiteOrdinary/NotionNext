@@ -82,25 +82,17 @@ const CONFIG = {
       title_1: '100',
       img_1: '/images/heo/100.png',
       color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      title_2: 'A1',
+      img_2: '/images/heo/a1.png',
       color_2: '#2c51db'
     },
     {
       title_1: 'Japanese ramen',
       img_1: '/images/heo/11.png',
       color_1: '#f7cb4f',
-      title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      title_2: 'A2',
+      img_2: '/images/heo/a2.png',
       color_2: '#e9572b'
-    },
-    {
-      title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
-      color_1: '#df5b40',
-      title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
-      color_2: '#1f1f1f'
     }
   ],
 
