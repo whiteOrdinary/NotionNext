@@ -83,7 +83,7 @@ const CONFIG = {
       img_1: '/images/heo/100.png',
       color_1: '#f29e39',
       title_2: 'A1',
-      img_2: '/images/heo/a1.png',
+      img_2: '/images/heo/A1.png',
       color_2: '#2c51db'
     },
     {
@@ -91,7 +91,7 @@ const CONFIG = {
       img_1: '/images/heo/11.png',
       color_1: '#f7cb4f',
       title_2: 'A2',
-      img_2: '/images/heo/a2.png',
+      img_2: '/images/heo/A2.png',
       color_2: '#e9572b'
     }
   ],
