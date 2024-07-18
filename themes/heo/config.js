@@ -6,7 +6,8 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: 'Welcome to Japan', url: 'https://japan-guides.com/' },
-    { title: 'For more things', url: 'https://japan-guides.com/' }
+    { title: 'Japanese Railway Travel Routes Hidden in Youth 18 Posters', url: 'https://japan-guides.com/article/traffic-4' },
+    { title: 'One of the world"s only two pilgrimage routes', url: 'https://japan-guides.com/article/culture-15' }
   ],
 
   // 英雄区左右侧组件颠倒位置
