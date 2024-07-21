@@ -73,6 +73,7 @@ export default function SideRight(props) {
         </Card>}
 
         {rightAreaSlot}
+        <AdSlot type='native' />
         <FaceBookPage/>
         <Live2D />
       </div>
