@@ -66,9 +66,9 @@ export const MenuList = ({ customNav, customMenu }) => {
     <>
       {/* 大屏模式菜单 - 垂直排列 */}
       <div id='nav-menu-pc' className='hidden md:flex md:flex-col md:gap-2'>
-        //{links?.map((link, index) => (
-        //  <MenuItemDrop key={index} link={link} />
-        //))}
+        {links?.map((link, index) => (
+          <MenuItemDrop key={index} link={link} />
+        /))}
       </div>
       {/* 移动端小屏菜单 - 水平排列 */}
       <div
